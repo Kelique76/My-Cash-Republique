@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Tamang"
+            android:icon="@mipmap/ic_launcher_round"
+            android:title="Tambah Anggota"
+            />
+        <item
+            android:id="@+id/nav_ecasha"
+            android:icon="@mipmap/ic_launcher_round"
+            android:title="Go to eCash App" />
+        <item
+            android:id="@+id/nav_tBank"
+            android:icon="@mipmap/ic_launcher_round"
+            android:title="Go To Tbank App" />
+        <item
+            android:id="@+id/nav_liatAngg"
+            android:icon="@mipmap/ic_tbank"
+            android:title="Lihat Anggota" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_telp"
+                android:icon="@mipmap/ic_launcher_round"
+                android:title="Telp Pusat" />
+            <item
+                android:id="@+id/nav_sms"
+                android:icon="@mipmap/ic_launcher_round"
+                android:title="Kirim WA ke Pusat" />
+        </menu>
+    </item>
+
+</menu>

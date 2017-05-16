@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">eRCe</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9672976856924793/2671601862</string>
+    <string name="open">buka</string>
+    <string name="closed">tutup</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
